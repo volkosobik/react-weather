@@ -1,0 +1,5 @@
+build/
+dist/
+eslint.config.js
+.idea/
+node_modules/
